@@ -1,0 +1,8 @@
+dia.png
+diasemfundo.png
+manhasemfundo(1).png
+noite.png
+noitesemfundo(1).png
+noitesemfundo.png
+tardesemfundo(1).png
+tardesemfundo.png
